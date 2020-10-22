@@ -1,7 +1,10 @@
-// Andres Pena 
-// Lab5
-// 10/28/2018
-// matrix.cpp
+///////////////////////////////////////////////////////////////
+// Description: This is part 2 of the 3 parts of a matrix lab. 
+//              This part of the project focuses on getting the 
+//              functionality of the matrices to work with one 
+//              another. 
+//
+//////////////////////////////////////////////////////////////
 
 #include<iostream>
 #include <algorithm> // provides min()
